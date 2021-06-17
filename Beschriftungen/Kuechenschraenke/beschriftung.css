@@ -1,0 +1,54 @@
+@media print {
+    html, body {
+        width       : 210mm;
+        height      : 297mm;
+        margin      : 0;
+        font-family : Arial, Helvetica, sans-serif, monospace;
+        font-weight : bold;
+    }
+}
+
+html, body {
+    margin      : 0;
+    font-family : Arial, Helvetica, sans-serif, monospace;
+    font-weight : bold;
+}
+
+img {
+    position:absolute;
+}
+.text {
+    vertical-align: middle;
+    margin      : 0mm;
+    padding     : 0mm;
+    height      : 20mm;
+    line-height : 20mm;
+    font-size   : 20mm;
+}
+.text_small {
+    margin         : 0mm;
+    padding        : 0mm;
+    height         : 20mm;
+    line-height    : 20mm;
+    font-size      : 15mm;
+    vertical-align : middle;
+}
+.space {
+    margin      : 0mm;
+    padding     : 0mm;
+    height      : 10mm;
+    line-height : 10mm;
+    font-size   : 10mm;
+}
+.footer {
+    position   : absolute;
+    text-align : right;
+    bottom     : 0mm;
+    width      : 100%;
+}
+.page {
+    height   : 208mm;
+    width    : 297mm;
+    position : absolute;
+}
+

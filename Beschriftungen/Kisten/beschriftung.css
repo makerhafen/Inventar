@@ -1,0 +1,68 @@
+@media print {
+    html, body {
+        width       : 210mm;
+        height      : 297mm;
+        margin      : 0;
+        font-weight : bold;
+        font-family : Arial, Helvetica, sans-serif, monospace;
+    }
+}
+
+html, body {
+    margin      : 0;
+    font-weight : bold;
+    font-family : Arial, Helvetica, sans-serif, monospace;
+}
+
+img {
+    position : absolute;
+}
+.text {
+    margin         : 0mm;
+    padding        : 0mm;
+    height         : 20mm;
+    line-height    : 20mm;
+    font-size      : 20mm;
+    vertical-align : middle;
+}
+.text_small {
+    margin         : 0mm;
+    padding        : 0mm;
+    height         : 20mm;
+    line-height    : 20mm;
+    font-size      : 15mm;
+    vertical-align : middle;
+}
+.space {
+    margin      : 0mm;
+    padding     : 0mm;
+    height      : 10mm;
+    font-size   : 10mm;
+    line-height : 10mm;
+}
+.footer {
+    width      : 100%;
+    bottom     : 0mm;
+    position   : absolute;
+    text-align : right;
+}
+
+.eurobox1 {     /*  ELB 6120  -  600mm x 400mm x 120mm  */
+    height    : 58mm;
+    width     : 297mm;
+    position  : absolute;
+    border-bottom : 1px solid lightgray;
+}
+
+.eurobox2 {     /*  ELB 6220  -  600mm x 400mm x 220mm  */
+    height    : 123mm;
+    width     : 297mm;
+    position  : absolute;
+    border-bottom : 1px solid lightgray;
+}
+
+.eurobox3 {     /*  ELB 6320  -  600mm x 400mm x 320mm  */
+    height   : 208mm;
+    width    : 297mm;
+    position : absolute;
+}

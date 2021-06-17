@@ -1,0 +1,66 @@
+:root {
+  --height: 25mm;
+}
+
+@media print {
+    html, body {
+        width       : 210mm;
+        height      : 297mm;
+        margin      : 0;
+        font-family : Arial, Helvetica, sans-serif, monospace;
+        font-weight : bold;
+    }
+}
+
+html, body {
+    margin      : 0;
+    font-family : Arial, Helvetica, sans-serif, monospace;
+    font-weight : bold;
+}
+
+img {
+    height     : calc(var(--height) - 4mm ) ;
+    padding    : 2mm;
+}
+.image {
+    text-align : center;
+    float      : left;
+}
+.image1 {
+    width : 50mm;
+}
+.image2 {
+    width : 65mm;
+}
+.image3 {
+    width : 80mm;
+}
+.image5 {
+    width : 95mm;
+}
+.image6 {
+    width : 110mm;
+}
+
+.text {
+    margin          : 0mm;
+    padding         : 0mm;
+    height          : var(--height);
+    line-height     : var(--height);
+    font-size       : calc( var(--height) - 5mm );
+    padding-right   : 2mm;
+    padding-left    : 2mm;
+    float           : left;
+    vertical-align  : middle;
+    width           : fit-content;
+    border-right    : 1px solid lightgray;
+    border-left     : 1px solid lightgray;
+}
+.zeile {
+    height        : var(--height);
+    width         : 297mm;
+    position      : absolute;
+    border-bottom : 1px solid lightgray;
+    border-top    : 1px solid lightgray;
+}
+
