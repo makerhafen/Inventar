@@ -11,6 +11,7 @@ def add_prefix(directory, prefix):
 def process_images(directory):
     files = glob.glob("%s/roh/*.*" % directory)
     for file in files:
+        print(file)
         if not file.endswith(".jpg"):
             ending = file.split(".")[-1]
             newname = file.replace(".%s"%ending, ".jpg")
@@ -25,6 +26,5 @@ def process_images(directory):
             cmd = 'magick "%s"  -fuzz 1%% -fill none -draw "alpha 1,1 floodfill" -trim +repage -resize 1000x1000\>  "%s" ' % (file, target)
             os.system(cmd)
 
-process_images("Inventar")
-process_images("BilderVerbrauchsmaterial")
+process_images("Inventar/Bilder/")
 #add_prefix("Inventar/roh/", "I")
