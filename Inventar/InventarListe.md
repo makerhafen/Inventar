@@ -1,8 +1,22 @@
+# Inhaltsverzeichnis  
+
+
+- [Holzwerkstatt](#holzwerkstatt)
+  - [Maschinen](#holzwerkstatt---maschinen)
+  - [Handwerkzeug](#holzwerkstatt---handwerkzeug)
+
+
+
+
 | ID     | Name                                                                   | Kategorie                                | Location   | Image                                 | Shop                                                                                                                                                                  |
 | ------ | ---------------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------------------------------- | ---------------------------------------------------------------                                                                                                       |
 | I106   | Phrozen Sonic MINI 4K! Resin Printer                                   | 3d-Drucker SLA                           |            | ![](Bilder/fertig/I106.png)   | https://phrozen3d.com/products/sonic-mini-4k-resin-3d-printer-phrozen                                                                                                 |
 | I135   | Gerade und gebogene Zangen Pinzetten                                   | 3d-Drucker SLA - Werkzeug                |            | ![](Bilder/fertig/I135.png)   | https://www.amazon.de/gp/product/B0758JW89J/                                                                                                                          |
 | I134.1 | Seitenschneider                                                        | 3d-Drucker SLA - Werkzeug                |            | ![](Bilder/fertig/I134.png)   | https://www.amazon.de/gp/product/B07P9NP2R6/                                                                                                                          |
+
+|  |  |  |  |  |                                                                                                        |
+| ------ | ---------------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------------------------------- | ---------------------------------------------------------------                                                                                                       |
+|        |  **3D Drucker**                                        |       |            |                                       |                                                                                                                                                                       |
 |        |                                                                        | 3d-Drucker SLA - Verbrauchsmaterial      |            |                                       |                                                                                                                                                                       |
 | I169.1 | Prusa i3 MK3S+ 3D printer                                              | 3d-Drucker FDM                           |            | ![](Bilder/fertig/I169.png)   | https://shop.prusa3d.com/en/3d-printers/181-original-prusa-i3-mk3s-3d-printer.html                                                                                    |
 | I169.2 | Prusa i3 MK3S+ 3D printer                                              | 3d-Drucker FDM                           |            | ![](Bilder/fertig/I169.png)   | https://shop.prusa3d.com/en/3d-printers/181-original-prusa-i3-mk3s-3d-printer.html                                                                                    |
@@ -321,8 +335,10 @@
 | I203     | 3D-Stift                                 |                                          |            | ![](Bilder/fertig/I203.png)   |  https://www.amazon.de/dp/B0924X7P6Y/                                                                                                                         |
 | I204     | 3D Stift Vorlage                                |                                          |            | ![](Bilder/fertig/I204.png)   | https://www.amazon.de/dp/B08T12RPHQ                                                                                                                          |
 | I205     | Siebdruckmaschine HDT4200 mit 2 Platten                              |                                          |            | ![](Bilder/fertig/I205.png)   | https://www.siebdruck-versand.de/Siebdruckmaschinen/HDT4200-ADVANCED-Siebdruckmaschine-fuer-4-Farb-Druck-mit-2-Platten::948.html                                                                                                                       |
-| I20     |                                 |                                          |            | ![](Bilder/fertig/I.png)   |                                                                                                                           |
-  
+| I206     | Brother PR 1055X Stickmaschine                            |                                          |            | ![](Bilder/fertig/I206.png)   | https://www.naehwelt-flach.de/brother-pr-1055x-semiprofi-stickmaschine-10-nadeln.html                                                                                                                    |
+| I207     | Weller WE1010 70W Digital Lötstation                 |                                          |            | ![](Bilder/fertig/I207.png)   | https://www.amazon.de/dp/B079ZN87FT/                                                                                                                    |
+| I208     | Weller WS81   80W Analoge Lötstation              |                                          |            | ![](Bilder/fertig/I208.png)   | https://www.amazon.de/dp/B00UMDVFQS/                                                                                                                  |
+   
 
 
 
@@ -330,6 +346,17 @@
 
 
 
+
+# Holzwerkstatt
+
+
+
+## Holzwerkstatt - Maschinen
+
+
+
+
+## Holzwerkstatt - Handwerkzeug
 
 
 

@@ -1,4 +1,4 @@
-f = "InventarListe.md"
+f = "Inventar/InventarListe.md"
 
 content = open(f, "rb").read().decode("utf-8")
 
