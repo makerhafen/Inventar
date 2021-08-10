@@ -1,11 +1,3 @@
-# Inhaltsverzeichnis  
-
-
-- [Holzwerkstatt](#holzwerkstatt)
-  - [Maschinen](#holzwerkstatt---maschinen)
-  - [Handwerkzeug](#holzwerkstatt---handwerkzeug)
-
-
 
 
 | ID     | Name                                                                   | Kategorie                                | Location   | Image                                 | Shop                                                                                                                                                                  |
@@ -13,11 +5,7 @@
 | I106   | Phrozen Sonic MINI 4K! Resin Printer                                   | 3d-Drucker SLA                           |            | ![](Bilder/fertig/I106.png)   | https://phrozen3d.com/products/sonic-mini-4k-resin-3d-printer-phrozen                                                                                                 |
 | I135   | Gerade und gebogene Zangen Pinzetten                                   | 3d-Drucker SLA - Werkzeug                |            | ![](Bilder/fertig/I135.png)   | https://www.amazon.de/gp/product/B0758JW89J/                                                                                                                          |
 | I134.1 | Seitenschneider                                                        | 3d-Drucker SLA - Werkzeug                |            | ![](Bilder/fertig/I134.png)   | https://www.amazon.de/gp/product/B07P9NP2R6/                                                                                                                          |
-
-|  |  |  |  |  |                                                                                                        |
-| ------ | ---------------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------------------------------- | ---------------------------------------------------------------                                                                                                       |
-|        |  **3D Drucker**                                        |       |            |                                       |                                                                                                                                                                       |
-|        |                                                                        | 3d-Drucker SLA - Verbrauchsmaterial      |            |                                       |                                                                                                                                                                       |
+|    |                                                                        | 3d-Drucker SLA - Verbrauchsmaterial      |            |                                       |                                                                                                                                                                       |
 | I169.1 | Prusa i3 MK3S+ 3D printer                                              | 3d-Drucker FDM                           |            | ![](Bilder/fertig/I169.png)   | https://shop.prusa3d.com/en/3d-printers/181-original-prusa-i3-mk3s-3d-printer.html                                                                                    |
 | I169.2 | Prusa i3 MK3S+ 3D printer                                              | 3d-Drucker FDM                           |            | ![](Bilder/fertig/I169.png)   | https://shop.prusa3d.com/en/3d-printers/181-original-prusa-i3-mk3s-3d-printer.html                                                                                    |
 | I170.1 | PRUSA MINI+                                                            | 3d-Drucker FDM                           |            | ![](Bilder/fertig/I170.png)   | https://shop.prusa3d.com/en/3d-printers/994-original-prusa-mini.html                                                                                                  |
@@ -320,14 +308,14 @@
 | I195.6     | Stahlmaßstab, Lineal 300x30x1 mm                                 |                                          |            | ![](Bilder/fertig/I195.png)   | https://www.amazon.de/dp/B005DKMMSU/                                                                                                                          |
 | I195.7     | Stahlmaßstab, Lineal 300x30x1 mm                                 |                                          |            | ![](Bilder/fertig/I195.png)   | https://www.amazon.de/dp/B005DKMMSU/                                                                                                                          |
 | I195.8     | Stahlmaßstab, Lineal 300x30x1 mm                                 |                                          |            | ![](Bilder/fertig/I195.png)   | https://www.amazon.de/dp/B005DKMMSU/                                                                                                                          |
-| I196.1     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
-| I196.2     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
-| I196.3     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
-| I196.4     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
-| I196.5     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
-| I196.6     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
-| I196.7     | Torx und Innensechskant-Schlüfrssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
-| I196.8     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I96.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.1     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.2     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.3     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.4     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.5     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.6     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.7     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
+| I196.8     | Torx und Innensechskant-Schlüssel-Set                                  |                                          |            | ![](Bilder/fertig/I196.png)   | https://www.amazon.de/dp/B0857JK394/                                                                                                                          |
 | I201.1     | ProBox Metallbohrer Set 25tlg.                                 |                                          |            | ![](Bilder/fertig/I201.png)   |  https://www.amazon.de/gp/product/B00AXXTJWO/                                                                                                                         |
 | I201.2     | ProBox Metallbohrer Set 25tlg.                                 |                                          |            | ![](Bilder/fertig/I201.png)   |  https://www.amazon.de/gp/product/B00AXXTJWO/                                                                                                                         |
 | I201.2     | ProBox Metallbohrer Set 25tlg.                                 |                                          |            | ![](Bilder/fertig/I201.png)   |  https://www.amazon.de/gp/product/B00AXXTJWO/                                                                                                                         |
@@ -343,20 +331,6 @@
 
 
 
-
-
-
-
-# Holzwerkstatt
-
-
-
-## Holzwerkstatt - Maschinen
-
-
-
-
-## Holzwerkstatt - Handwerkzeug
 
 
 
