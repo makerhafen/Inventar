@@ -326,10 +326,12 @@
 | I206     | Brother PR 1055X Stickmaschine                            |                                          |            | ![](Bilder/fertig/I206.png)   | https://www.naehwelt-flach.de/brother-pr-1055x-semiprofi-stickmaschine-10-nadeln.html                                                                                                                    |
 | I207     | Weller WE1010 70W Digital Lötstation                 |                                          |            | ![](Bilder/fertig/I207.png)   | https://www.amazon.de/dp/B079ZN87FT/                                                                                                                    |
 | I208     | Weller WS81   80W Analoge Lötstation              |                                          |            | ![](Bilder/fertig/I208.png)   | https://www.amazon.de/dp/B00UMDVFQS/                                                                                                                  |
+| I209     | SMD Manual Pick and Place Machine MPP1             |                                          |            | ![](Bilder/fertig/I209.png)   | http://www.fortex.co.uk/product/smt-pick-place-mpp1/                                                                                                                |
+| I210     | T962 Reflow Ofen 180x235mm 800Watt            |                                          |            | ![](Bilder/fertig/I210.png)   | https://www.amazon.de/dp/B017BARMQG/                                                                                                             |
    
 
 
-
+ 
 
 
 
